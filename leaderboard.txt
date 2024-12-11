@@ -1,0 +1,11 @@
+huda,0
+moiz,0
+danyal,0
+,0
+danyal,0
+moiz,0
+moiz,0
+huda,3
+moiz,1
+danyal,0
+ali,2
